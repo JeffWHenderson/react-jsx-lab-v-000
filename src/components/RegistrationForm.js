@@ -4,6 +4,8 @@ class RegistrationForm extends React.component {
   render(){
     return ( <form>
               <input> </input>
+              <input> </input>
+              <button> </button>
             </form>
           )
   }
