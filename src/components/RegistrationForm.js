@@ -4,4 +4,4 @@ class RegistrationForm extends React.component {
 
 }
 
-export RegistrationForm
+export default RegistrationForm
