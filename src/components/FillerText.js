@@ -2,7 +2,7 @@ import React from 'react'
 
 class FillerText extends React.component {
   render()
-    return( <form>
+    return ( <form>
             </form>
           )
 }
