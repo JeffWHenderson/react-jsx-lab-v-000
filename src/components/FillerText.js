@@ -1,10 +1,11 @@
 import React from 'react'
 
 class FillerText extends React.component {
-  render()
+  render(){
     return ( <form>
             </form>
           )
+  }
 }
 
 export default FillerText
