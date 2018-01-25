@@ -4,4 +4,4 @@ class FillerText extends React.component {
 
 }
 
-export FillerText
+export default FillerText
