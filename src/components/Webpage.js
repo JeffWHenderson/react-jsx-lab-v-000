@@ -1,5 +1,6 @@
 import React from 'react'
-import FillerText from './fillertext'
+import FillerText from './FillerText'
+
 class Webpage extends React.component {
   render(){
     return (
